@@ -1,0 +1,71 @@
+table {
+   background-color: white;
+   border-collapse:collapse;
+}
+  
+table, th, td {
+   border: 1px solid #222222;
+}
+
+td, th {
+   padding: 4px;
+}
+
+th, td.checkBoxCell {
+    background-color: #EEEEEE;
+}
+
+a {
+    color: #A33F1F;
+}
+
+a:hover {
+    color: #913417;
+}
+
+#content {
+    /* border: 1px solid gray;*/
+    width: 900px;
+    background-color: white;
+    padding: 5px 30px 15px 30px;
+    margin-top:93px;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: "Lucida Grande","Lucida Sans Unicode",sans-serif;
+    font-size: 12pt;
+}
+
+.archive_link {
+    font-size: 90%;
+    font-weight: bold;
+    font-style: italic;
+}
+
+html
+{
+	background: #E5E6DE url('../img/ss-header2.png') top center no-repeat;*/
+}
+
+html#cee
+{
+	background: #E5E6DE url('../img/cee-arch-header.png') top center no-repeat;*/
+}
+
+html#cs
+{
+	background: #E5E6DE url('../img/cs-arch-header.png') top center no-repeat;*/
+}
+
+html#ece
+{
+	background: #E5E6DE url('../img/ece-arch-header.png') top center no-repeat;*/
+}
+
+html#etm
+{
+	background: #E5E6DE url('../img/etm-arch-header.png') top center no-repeat;*/
+}
+html#mme
+{
+	background: #E5E6DE url('../img/mme-arch-header.png') top center no-repeat;*/
+}
